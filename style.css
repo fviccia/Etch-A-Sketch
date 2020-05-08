@@ -7,13 +7,21 @@
 
 .box {
   border: 1px solid grey;
-
 }
-
-
+/* .box:hover {
+  background-color: black;
+} */
+.box.active {
+  background-color: black;
+}
 
 .grid {
   display: grid;
+
+}
+
+.button {
+  margin: 10px;
 }
 
 
