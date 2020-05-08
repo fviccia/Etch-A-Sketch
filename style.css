@@ -1,0 +1,19 @@
+#container {
+  border: 1px solid grey;
+  width: 600px;
+  height: 600px;
+  margin: 0 auto;
+}
+
+.box {
+  border: 1px solid grey;
+
+}
+
+
+
+.grid {
+  display: grid;
+}
+
+
