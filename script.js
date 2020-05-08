@@ -37,6 +37,7 @@ function mouseOver() {
     })
   })
 }
+// This function resets the grid, removing the active class.
 function resetGrid () {
   document.querySelectorAll('.box').forEach(item => {
     item.classList.remove('active');
